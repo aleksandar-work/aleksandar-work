@@ -3,11 +3,11 @@
 I'm a full stack smart contract developer
 
 ### Skills
-- Smart Contract
-  solidity
+- React Native Mobile App development
 
-- Dapp 
+- MERN Stack, Smart Contract Development
 
+- Dapp
   React/React-Native, web3.js
 
 - Backend
